@@ -1,9 +1,25 @@
 //ex 1
+const cursoAluno : string = "Análise e Desenvolvimento de Sistemas";
+const RA : number = 30;
+const nomeAluno : string = "Ana Clara de Oliveira Nascimento";
+console.log("Curso: ", cursoAluno);
+console.log("RA: ", RA);
+console.log("Nome: ", nomeAluno);
 
 //ex 2
+if umidade > 60 {
+    console.log(O ar está úmido);
+}
+if umidade < 3>0 {
+    console.log(O ar está muito seco);
+}
+else {
+    console.log(O ar está seco);
+}
 //ex 3
-//ex 4
 
+
+//ex 4
 //ex a
 var nomeAplicacao : string = "FIAP";
 
